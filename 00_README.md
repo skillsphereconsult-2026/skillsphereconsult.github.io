@@ -1,3 +1,11 @@
+## Portfolio Sections
+- [Soft Skills & Professional Development](01_Soft-Skills-Professional-Development/)
+- [Pharmaceutical Training & Specialization](02_Pharmaceutical-Training-and-Specialization/)
+- [Data Science & Machine Learning](03_Data-Science-Machine-Learning/)
+- [Business Intelligence Dashboards](04_Business-Intelligence-Dashboards/)
+- [Statistical Research Consulting](05_Statistical-Research-Consulting/)
+- [Case Studies & Integrated Insights](06_Case-Studies-Integrated-Insights/)
+
 # Skillsphereconsult.github.io
 Professional portfolio showcasing expertise in data analytics, statistics, and soft skills training. Bridging complex data insights with high-impact adult learning and professional development.
 
