@@ -1,8 +1,6 @@
-# Prescriptive Analytics
+This subdirectory focuses on the final stage of the analytics lifecycle: providing **analytical guidance** and **actionable insights** . These datasets and reports demonstrate how I translate complex model outputs into **data-driven decision-making** frameworks for government and private-sector partners .
 
-In this section, I focus on providing **analytical guidance** and actionable recommendations. As a **Subject Matter Expert (SME) in data analysis**, I help organizations integrate data-driven decision-making into their core projects.
-
-### Core Competencies:
-*   **Actionable Insights:** Translating complex model outputs into strategic evidence-based insights .
-*   **Strategic Optimization:** Guiding clients in designing studies and interpreting data to optimize organizational outcomes .
-*   **Decision Support:** Supporting the development of data systems, similar to my work on the **NSCB-UNICEF Project**, for effective project monitoring.
+### Methodology & Key Objectives
+*   **Strategic Optimization:** Determining the "best course of action" to improve organizational efficiency and sales force effectiveness .
+*   **Evidence-Based Insights:** Developing comprehensive recommendations that bridge the gap between technical data and human-centric training solutions.
+*   **Decision Support Systems:** Supporting the integration of data into large-scale initiatives, similar to the **NSCB-UNICEF project** for monitoring the situation of women and children.
